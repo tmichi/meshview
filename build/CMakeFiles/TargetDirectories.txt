@@ -1,0 +1,2 @@
+/Users/michi/Workspace/meshview/build/src/CMakeFiles/meshview.dir
+/Users/michi/Workspace/meshview/build/src/CMakeFiles/meshview_automoc.dir
